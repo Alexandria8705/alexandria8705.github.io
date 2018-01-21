@@ -1,0 +1,123 @@
+html, body {
+  font-family: sans-serif;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    background-color: #77a3ea;
+}
+.left {
+    width: 20%;
+    float: left;
+    position: fixed;
+}
+.nav {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.nav li {
+    margin: 1px 0;
+    border: 1px solid #999;
+}
+.nav li a {
+    display: block;
+    line-height: 3em;
+    width: 100%;
+    text-decoration: none;
+}
+
+h1 {
+  font-size: 48px;
+  text-align:center;
+}
+
+p {
+  max-width: 65%;
+  min-width: 500px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 25px;
+}
+
+h3 {
+    text-align:left;
+}
+
+h4 {
+  text-align: center;
+}
+
+div {
+  padding-right: 30px;
+  height: 100%;
+  width: 100%;
+}
+
+ul {
+    font-size: 14px;
+}
+
+video {
+  background-color: #000000;
+  border: 2px solid black;
+}
+
+
+.main {
+  padding-left: 30px;
+  min-width: 75%;
+}
+
+.nav {
+  background-color:#747c7c;
+  max-width: 25%;
+  min-width: 140px;
+  flex: 1;
+}
+
+.nav h1 {
+  padding-left: 20px;
+}
+
+img {
+  height: 500;
+  width: 500;
+}
+
+iframe {
+  float: bottom;
+  width: 40%;
+  text-align: center;
+  font-style: italic;
+  font-size: 25;
+  text-indent: 0;
+  border: thin black solid;
+  margin: 0.5em;
+  padding: 0.5em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+p {
+  float: bottom;
+  width: 40%;
+  text-align: center;
+  font-style: italic;
+  font-size: 25;
+  text-indent: 0;
+  border: thin black solid;
+  margin: 0.5em;
+  padding: 0.5em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
