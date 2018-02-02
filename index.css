@@ -5,7 +5,7 @@ body {
     background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlj5tA_Gbuev1ehbHVGbSdciszJQcx5IgZ4wN5IIkR4fR44XwT");
 }
 
-ul {
+ul.nav {
     list-style-type: none;
     margin: 0;
     padding: 0;
