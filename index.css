@@ -15,6 +15,7 @@ ul.nav {
     top: 0;
     width: 100%;
     font-size: 20px;
+    z-index: 999999;
 
 }
 
@@ -72,4 +73,9 @@ IMG.displayed {
 
   div.fb-comments {
     padding-right: 0px;
+  }
+
+.canva-embed {
+    height: 400px;
+    width: 600px;
   }
